@@ -4,4 +4,4 @@
 
 [![badge-service](https://github.com/daytec-org/.github/blob/main/public/badge/badge-service_big.svg)](https://badge-service.deno.dev)
 
-[![badge-service](https://github.com/daytec-org/.github/blob/main/public/badge/restman_big.svg)](https://github.com/daytec-org/restman)
+[![badge-service](https://github.com/daytec-org/.github/blob/main/public/badge/restman_big.svg)](https://restman-app.vercel.app/)
